@@ -1,0 +1,13 @@
+D:\Git mapper\Dating2\C#\MatchMakingServer\bin\Debug\netcoreapp3.1\MatchMakingServer.exe
+D:\Git mapper\Dating2\C#\MatchMakingServer\bin\Debug\netcoreapp3.1\MatchMakingServer.deps.json
+D:\Git mapper\Dating2\C#\MatchMakingServer\bin\Debug\netcoreapp3.1\MatchMakingServer.runtimeconfig.json
+D:\Git mapper\Dating2\C#\MatchMakingServer\bin\Debug\netcoreapp3.1\MatchMakingServer.runtimeconfig.dev.json
+D:\Git mapper\Dating2\C#\MatchMakingServer\bin\Debug\netcoreapp3.1\MatchMakingServer.dll
+D:\Git mapper\Dating2\C#\MatchMakingServer\bin\Debug\netcoreapp3.1\MatchMakingServer.pdb
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.csprojAssemblyReference.cache
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.AssemblyInfoInputs.cache
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.AssemblyInfo.cs
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.csproj.CoreCompileInputs.cache
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.dll
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.pdb
+D:\Git mapper\Dating2\C#\MatchMakingServer\obj\Debug\netcoreapp3.1\MatchMakingServer.genruntimeconfig.cache
