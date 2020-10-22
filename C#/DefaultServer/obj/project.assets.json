@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\MessageServer.csproj",
-      "projectName": "MessageServer",
-      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\MessageServer.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DefaultServer\\DefaultServer.csproj",
+      "projectName": "DefaultServer",
+      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DefaultServer\\DefaultServer.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DefaultServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"

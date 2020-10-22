@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
-    "projectName": "MatchMakingServer",
-    "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
-    "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MatchMakingServer\\obj\\",
+    "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DefaultServer\\DefaultServer.csproj",
+    "projectName": "DefaultServer",
+    "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DefaultServer\\DefaultServer.csproj",
+    "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DefaultServer\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

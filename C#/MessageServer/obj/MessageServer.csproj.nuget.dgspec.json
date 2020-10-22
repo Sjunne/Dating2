@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj": {}
+    "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\MessageServer.csproj": {}
   },
   "projects": {
-    "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj": {
+    "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\MessageServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\MessageServer.csproj",
         "projectName": "MessageServer",
-        "projectPath": "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
-        "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-        "outputPath": "D:\\Git mapper\\Dating2\\C#\\MessageServer\\obj\\",
+        "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\MessageServer.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\MessageServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
