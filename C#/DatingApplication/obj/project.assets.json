@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DatingApplication\\DatingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin\\Desktop\\3. Semester\\DNP\\Dating\\C#\\DatingApplication\\DatingApplication.csproj",
       "projectName": "DatingApplication",
-      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DatingApplication\\DatingApplication.csproj",
-      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSystem\\C#\\DatingApplication\\obj\\",
+      "projectPath": "C:\\Users\\Kevin\\Desktop\\3. Semester\\DNP\\Dating\\C#\\DatingApplication\\DatingApplication.csproj",
+      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kevin\\Desktop\\3. Semester\\DNP\\Dating\\C#\\DatingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
