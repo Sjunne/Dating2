@@ -1,0 +1,13 @@
+D:\Git mapper\Dating2\C#\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.exe
+D:\Git mapper\Dating2\C#\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.deps.json
+D:\Git mapper\Dating2\C#\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.runtimeconfig.json
+D:\Git mapper\Dating2\C#\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.runtimeconfig.dev.json
+D:\Git mapper\Dating2\C#\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.dll
+D:\Git mapper\Dating2\C#\MessageServer\bin\Debug\netcoreapp3.1\MessageServer.pdb
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.csprojAssemblyReference.cache
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.AssemblyInfoInputs.cache
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.AssemblyInfo.cs
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.csproj.CoreCompileInputs.cache
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.dll
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.pdb
+D:\Git mapper\Dating2\C#\MessageServer\obj\Debug\netcoreapp3.1\MessageServer.genruntimeconfig.cache
