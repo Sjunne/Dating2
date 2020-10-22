@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EzM3f8bjkyn+vmtsDDqUCouPN5+lU53x92GOJSjzyVt0rFeezrAzhDQw6bcKOnqRC1KTB2xIClDyR7PlBpwOyg==",
+  "dgSpecHash": "s11vHOdYhJlwbwfICRI5nJo+IZJMtCFha+zbKmiINZ9uUXoFrEBU/w5LFY/0YQr/6fjVzCEFDVwi1c1CXNZLYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin\\Desktop\\3. Semester\\DNP\\Dating\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+  "projectFilePath": "C:\\Users\\Mattias Leth\\RiderProjects\\Dating20\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
