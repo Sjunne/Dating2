@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\misc\\gitmap\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\MatchMakingServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\MatchMakingServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+        "projectName": "MatchMakingServer",
+        "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +67,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
         }
       }
     }

@@ -10,7 +10,7 @@
     </style>
 </head>
 <div style="width: 100%; height: 400px; background: rgb(2,0,36);
-                                                                              background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">
+                                                                         background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">
     <div id="example1" class="cover-div" style="height: 220px; position: relative">
         <button class="btn btn-primary" style="position: absolute; bottom: 3px; right: 3px">Change cover</button>
         <div id="example2"></div>
@@ -48,7 +48,7 @@
                     <div style=" overflow: scroll; float:right; width: 40%; height: 250px; border-style: solid; margin-right: 7%; margin-bottom: 50px;">
                         <div>
                             <h5 class="Georgia" style="float: left">Introduction </h5>
-                            <button @onclick="@(() => Modal.Show<Introduction>())" class="btn btn-primary Georgia" style="float: right">Edit</button>
+                            <button @onclick="@(() => Modal.Show<Introduction>("Introduction"))" class="btn btn-primary Georgia" style="float: right">Edit</button>
                         </div>
                         <p class="Georgia" style="float: left">
                             Tekst bliver i daglig tale tit identificeret med det medie, de fremstår i, og som sådan
