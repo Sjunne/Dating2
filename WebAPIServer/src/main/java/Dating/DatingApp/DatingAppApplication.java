@@ -13,15 +13,12 @@ public class DatingAppApplication {
 		SpringApplication.run(DatingAppApplication.class, args);
 	}
 
-	@GetMapping("/Maria")
-	public String GetHello()
-	{
-		return "Hello from Maria";
-	}
 
-	@GetMapping("/Mattias")
+		@GetMapping("/Maria")
 	public String getHelloMattias()
 	{
+		System.out.println("hey");
 		return "Hello from Mattias";
 	}
+
 }
