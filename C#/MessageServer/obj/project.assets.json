@@ -8,23 +8,34 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\sjunn\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+<<<<<<< HEAD
+    "C:\\Users\\kaspe\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
       "projectName": "MessageServer",
-      "projectPath": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
-      "packagesPath": "C:\\Users\\sjunn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MessageServer\\obj\\",
+      "projectPath": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+      "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
+      "outputPath": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sjunn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
+      "projectName": "MessageServer",
+      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
+      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,7 +71,11 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
       }
     }
   }

@@ -1,4 +1,15 @@
+@using WebApplication.Data
+@inject ProfileData _Profile;
+
+
+
 
 @code {
-    
+    protected override Task OnInitializedAsync()
+    {
+        _Profile.intro = "BlaBlaBla";
+        Console.WriteLine("her");
+        return base.OnInitializedAsync();
+    }
+
 }
