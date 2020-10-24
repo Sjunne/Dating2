@@ -156,6 +156,7 @@ fabric.properties
 .vs/
 bin/
 obj/
+.idea/
 *.user
 artifacts/
 .vscode/
