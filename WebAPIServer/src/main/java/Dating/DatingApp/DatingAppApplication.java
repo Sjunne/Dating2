@@ -9,14 +9,13 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class DatingAppApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(DatingAppApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(DatingAppApplication.class, args);
+	}
 
-    @GetMapping("/hello")
-    public String GetHello() {
-        return "Hello World";
-    }
-
-
+	@GetMapping("/Maria")
+	public String GetHello()
+	{
+		return "Hello from Maria";
+	}
 }
