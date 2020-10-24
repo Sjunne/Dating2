@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4THo6lrAwJ1O8TyD4jT6tbC4/NjNFRHcAfISMa7wBvhzrURkaR/IZs6yFTRu9H5EPaUCgdIxcHlFdX31waJX+Q==",
+  "dgSpecHash": "mlc1Kxj3UK3vflH4O1JBlyAeKO0MSdiReKIuUQRSCnfQJyEkhtNOA2nCMvY10n0V710DTk+1TDXpKuCb3RYojA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,6 +10,9 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Components" t="Include">
+          <e p="Introduction.razor" t="Include" />
+        </e>
         <e p="Data" t="Include">
           <e p="WeatherForecast.cs" t="Include" />
           <e p="WeatherForecastService.cs" t="Include" />
@@ -28,6 +31,8 @@
           <e p="Index.razor" t="Include" />
           <e p="Profile.razor" t="Include" />
           <e p="RegisterForSemesterProject.razor" t="Include" />
+          <e p="Temp.razor" t="Include" />
+          <e p="Temp2.razor" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">

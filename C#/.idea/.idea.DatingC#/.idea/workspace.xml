@@ -27,7 +27,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6a4525-04b7-4166-8dca-6d367497917b" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/Debug/netcoreapp3.1/MessageServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/Debug/netcoreapp3.1/MessageServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +63,7 @@
         <option value="$PROJECT_DIR$/Server/Program.cs" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/Frontpage.razor" />
+        <option value="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" />
       </list>
     </option>
   </component>
@@ -239,6 +255,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603460190404" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1603533825630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1603533825630" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1603533825642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1603533825642" />
     <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1603377077752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
