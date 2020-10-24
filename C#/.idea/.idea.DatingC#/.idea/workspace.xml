@@ -27,22 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6a4525-04b7-4166-8dca-6d367497917b" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/Debug/netcoreapp3.1/MessageServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/Debug/netcoreapp3.1/MessageServer.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/MessageServer.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,25 +221,26 @@
     <MESSAGE value="profile version 1" />
     <MESSAGE value="here" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="z-index" />
+    <option name="LAST_COMMIT_MESSAGE" value="z-index" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1603460190404">
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom" timestamp="1603537456898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603460190404" />
-    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1603460190403">
+    <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603537456898" />
+    <state width="1323" height="132" key="GridCell.Tab.0.center" timestamp="1603537456898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603460190403" />
-    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1603460190403">
+    <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603537456898" />
+    <state width="1323" height="132" key="GridCell.Tab.0.left" timestamp="1603537456897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603460190403" />
-    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1603460190404">
+    <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603537456897" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right" timestamp="1603537456898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603460190404" />
+    <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603537456898" />
     <state x="129" y="55" key="MergeDialog" timestamp="1603533825630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
