@@ -28,16 +28,15 @@
   <component name="ChangeListManager">
     <list default="true" id="f3f60901-53c1-4c55-acc5-b93b7b9c6ced" name="Default Changelist" comment="Intro component">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/DatingApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/DatingApplication.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Shared/SurveyPrompt.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Shared/SurveyPrompt.razor" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,6 +51,7 @@
         <option value="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" />
+        <option value="$PROJECT_DIR$/DatingApplication/Shared/SurveyPrompt.razor" />
       </list>
     </option>
   </component>
@@ -64,6 +64,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DatingApplication: WebApplication">
