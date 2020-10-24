@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\kaspe\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kaspe\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DatingC#.300039839.00" t="ExcludeRecursive" />
-    <e p="D:\Git mapper\Dating2\C#" t="IncludeFlat">
+    <e p="C:\Users\Kevin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kevin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DatingC#.68048496.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kevin\RiderProjects\Dating2\C#" t="IncludeFlat">
       <e p="DatingApplication" t="IncludeRecursive">
         <e p="_Imports.razor" t="Include" />
         <e p="App.razor" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Components" t="Include">
+          <e p="Introduction.razor" t="Include" />
+        </e>
         <e p="Data" t="Include">
           <e p="WeatherForecast.cs" t="Include" />
           <e p="WeatherForecastService.cs" t="Include" />
@@ -19,6 +22,7 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="DatingApplication.AssemblyInfo.cs" t="Include" />
+              <e p="DatingApplication.RazorAssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
