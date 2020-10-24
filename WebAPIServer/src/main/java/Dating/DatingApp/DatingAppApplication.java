@@ -1,4 +1,4 @@
-package com.example2.Test3;
+package Dating.DatingApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,16 +7,15 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
-public class Test3Application {
+public class DatingAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Test3Application.class, args);
+		SpringApplication.run(DatingAppApplication.class, args);
 	}
 
-	@GetMapping("/hello")
-	public String getSimpleString()
+	@GetMapping("/Hello")
+	public String GetHello()
 	{
-		return "hello world";
+		return "Hello World";
 	}
-
 }
