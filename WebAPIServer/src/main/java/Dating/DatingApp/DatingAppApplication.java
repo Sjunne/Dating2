@@ -20,7 +20,7 @@ public class DatingAppApplication {
 	}
 
 	@GetMapping("/Mattias")
-			public String getHelloMattias()
+	public String getHelloMattias()
 	{
 		return "Hello from Mattias";
 	}
