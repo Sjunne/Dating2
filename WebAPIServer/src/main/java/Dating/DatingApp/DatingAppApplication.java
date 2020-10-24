@@ -13,9 +13,9 @@ public class DatingAppApplication {
 		SpringApplication.run(DatingAppApplication.class, args);
 	}
 
-	@GetMapping("/hello")
+	@GetMapping("/Maria")
 	public String GetHello()
 	{
-		return "Hello World";
+		return "Hello from Maria";
 	}
 }
