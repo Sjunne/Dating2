@@ -27,21 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f60901-53c1-4c55-acc5-b93b7b9c6ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/DatingApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/DatingApplication.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Shared/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Shared/NavMenu.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/_Imports.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/Debug/netcoreapp3.1/MatchMakingServer.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/MatchMakingServer.csproj.nuget.dgspec.json" afterDir="false" />
@@ -202,6 +189,7 @@
       <updated>1603374720595</updated>
       <workItem from="1603374735878" duration="1841000" />
       <workItem from="1603531856941" duration="919000" />
+      <workItem from="1603532856737" duration="709000" />
     </task>
     <servers />
   </component>

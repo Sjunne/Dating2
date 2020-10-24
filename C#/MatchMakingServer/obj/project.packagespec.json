@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+    "projectUniqueName": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
     "projectName": "MatchMakingServer",
-    "projectPath": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
-    "outputPath": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\obj\\",
+    "projectPath": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+    "outputPath": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
@@ -40,7 +43,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Users\\Kevin\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
     }
   }
 }
