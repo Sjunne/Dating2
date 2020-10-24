@@ -13,7 +13,7 @@ public class DatingAppApplication {
 		SpringApplication.run(DatingAppApplication.class, args);
 	}
 
-	@GetMapping("/Hello")
+	@GetMapping("/hello")
 	public String GetHello()
 	{
 		return "Hello World";
