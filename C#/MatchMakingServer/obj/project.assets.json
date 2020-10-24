@@ -8,19 +8,34 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
+<<<<<<< HEAD
+    "C:\\Users\\kaspe\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\misc\\gitmap\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
       "projectName": "MatchMakingServer",
-      "projectPath": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
-      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin\\RiderProjects\\Dating2\\C#\\MatchMakingServer\\obj\\",
+      "projectPath": "D:\\misc\\gitmap\\Dating2\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+      "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
+      "outputPath": "D:\\misc\\gitmap\\Dating2\\C#\\MatchMakingServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+      "projectName": "MatchMakingServer",
+      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\MatchMakingServer.csproj",
+      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MatchMakingServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -56,7 +71,11 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Kevin\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
       }
     }
   }
