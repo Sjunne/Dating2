@@ -1,5 +1,7 @@
 ﻿using System.Net.Sockets;
 using System.Text;
+using System.Text.Json;
+using WebApplication.Data;
 
 namespace WebApplication.Network
 {
@@ -14,9 +16,10 @@ namespace WebApplication.Network
             stream = tcpClient.GetStream();
         }
         
-        public void EditIntroduction(string text)
+        public void EditIntroduction(Request r)
         {
-            byte[] dataToServer = Encoding.ASCII.GetBytes(text);
+            string s = JsonSerializer.Serialize(r);
+            byte[] dataToServer = Encoding.ASCII.GetBytes(s);
             stream.Write(dataToServer, 0, dataToServer.Length);
         }
     }

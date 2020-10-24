@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -12,6 +13,7 @@ namespace Server
             IPAddress ip = IPAddress.Parse("127.0.0.1");
             TcpListener tcpListener = new TcpListener(ip,6000);
             tcpListener.Start();
+            SocketHandler socketHandler = new SocketHandler();
 
             while (true)
             {
@@ -19,10 +21,7 @@ namespace Server
                 Console.WriteLine("FANDT CLIENT");
 
                 NetworkStream networkStream = client.GetStream();
-                byte[] array = new byte[1024];
-                int bytesRead = networkStream.Read(array, 0, array.Length);
-                string s = Encoding.ASCII.GetString(array, 0, bytesRead);
-                Console.WriteLine(s);
+                socketHandler.HandlerClient(client,new List<SocketHandler>());
             }
         }
     }
