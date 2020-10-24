@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-<<<<<<< HEAD
-    <e p="C:\Users\kaspe\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kaspe\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DatingC#.1633640644.00" t="ExcludeRecursive" />
-    <e p="D:\misc\gitmap\Dating2\C#" t="IncludeFlat">
-=======
     <e p="C:\Users\Bruger\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Bruger\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DatingC#.1711729701.00" t="ExcludeRecursive" />
     <e p="C:\Users\Bruger\RiderProjects\DatingSys\C#" t="IncludeFlat">
->>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
       <e p="DatingApplication" t="IncludeRecursive">
         <e p="_Imports.razor" t="Include" />
         <e p="App.razor" t="Include" />
