@@ -27,12 +27,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f60901-53c1-4c55-acc5-b93b7b9c6ced" name="Default Changelist" comment="Intro component">
+      <change afterPath="$PROJECT_DIR$/DatingApplication/Data/IProfile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingApplication/Data/ProfileData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/DatingApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/DatingApplication.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMakingServer/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MessageServer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Startup.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +48,14 @@
       <list>
         <option value="$PROJECT_DIR$/DatingApplication/Shared/NavMenu.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/_Imports.razor" />
-        <option value="$PROJECT_DIR$/DatingApplication/Startup.cs" />
-        <option value="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" />
-        <option value="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" />
+        <option value="$PROJECT_DIR$/DatingApplication/Data/IProfile.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Data/Profile.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Startup.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Data/ProfileData.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" />
+        <option value="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" />
       </list>
     </option>
   </component>
@@ -179,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603374720595</updated>
       <workItem from="1603374735878" duration="1841000" />
-      <workItem from="1603531856941" duration="1581000" />
+      <workItem from="1603531856941" duration="4467000" />
     </task>
     <task id="LOCAL-00001" summary="Intro component">
       <created>1603532807749</created>
@@ -188,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603532807749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Intro component">
+      <created>1603533486732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603533486732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Intro component">
+      <created>1603533904508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603533904508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,29 +232,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="Intro component" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603533407405">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603536039961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533407405" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603536039961" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603376640872" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603533407405">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603536039961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533407405" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603536039961" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603376640871" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603533407405">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603536039961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533407405" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603536039961" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603376640871" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603533407405">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603536039961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533407405" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603536039961" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603376640871" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603532818934">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603533917277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603532818934" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533917277" />
   </component>
 </project>
