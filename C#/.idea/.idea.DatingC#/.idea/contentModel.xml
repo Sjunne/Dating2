@@ -20,6 +20,10 @@
           <e p="WeatherForecastService.cs" t="Include" />
         </e>
         <e p="DatingApplication.csproj" t="IncludeRecursive" />
+        <e p="Network" t="Include">
+          <e p="INetworkComp.cs" t="Include" />
+          <e p="SocketServer.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -34,7 +38,7 @@
           <e p="Profile.razor" t="Include" />
           <e p="RegisterForSemesterProject.razor" t="Include" />
           <e p="Temp.razor" t="Include" />
-          <e p="Temp2.razor" t="Include" />
+          <e p="temp2.razor" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">

@@ -26,7 +26,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f6a4525-04b7-4166-8dca-6d367497917b" name="Default Changelist" comment="Test" />
+    <list default="true" id="4f6a4525-04b7-4166-8dca-6d367497917b" name="Default Changelist" comment="Test">
+      <change afterPath="$PROJECT_DIR$/DatingApplication/Network/INetworkComp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingApplication/Network/SocketServer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingC#/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApplication/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,19 +47,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/sjunn/RiderProjects/Dating2/C#/DatingApplication/Components/Introduction.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DatingApplication/Shared/NavMenu.razor" />
-        <option value="$PROJECT_DIR$/DatingApplication/Startup.cs" />
         <option value="$PROJECT_DIR$/DatingApplication/_Imports.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/_Host.cshtml" />
         <option value="$PROJECT_DIR$/DatingApplication/wwwroot/css/site.css" />
-        <option value="$PROJECT_DIR$/Server/Program.cs" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/Profile.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Pages/Frontpage.razor" />
         <option value="$PROJECT_DIR$/DatingApplication/Shared/MainLayout.razor" />
+        <option value="$PROJECT_DIR$/DatingApplication/Program.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Network/INetworkComp.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Network/NetworkComp.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Network/SocketServer.cs" />
+        <option value="$PROJECT_DIR$/DatingApplication/Startup.cs" />
         <option value="$PROJECT_DIR$/DatingApplication/Components/Introduction.razor" />
+        <option value="$PROJECT_DIR$/Server/Program.cs" />
       </list>
     </option>
   </component>
@@ -63,6 +79,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DatingApplication: WebApplication">
     <configuration name="DefaultServer" type="DotNetProject" factoryName=".NET Project">
@@ -236,26 +254,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603537836770">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603540659247">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603537836770" />
     <state width="1323" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603537456898" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603537836770">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603540659247" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603540659247">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603537836770" />
     <state width="1323" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603537456898" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603537836770">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603540659247" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603540659247">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603537836770" />
     <state width="1323" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603537456897" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603537836770">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603540659247" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603540659247">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603537836770" />
     <state width="1323" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603537456898" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603540659247" />
     <state x="129" y="55" key="MergeDialog" timestamp="1603533825630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

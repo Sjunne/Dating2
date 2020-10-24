@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using WebApplication.Components;
 using WebApplication.Data;
+using WebApplication.Network;
 
 namespace WebApplication
 {
@@ -36,6 +37,9 @@ namespace WebApplication
 
             // Singleton
             services.AddSingleton<ProfileData>();
+            
+            //Network
+            services.AddSingleton<INetworkComp, SocketServer>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
