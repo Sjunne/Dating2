@@ -1,4 +1,6 @@
 ﻿@page "/Profile"
+@using WebApplication.Components
+@inject IModalService Modal
 
 <head>
     <style>
@@ -46,7 +48,7 @@
                     <div style=" overflow: scroll; float:right; width: 40%; height: 250px; border-style: solid; margin-right: 7%; margin-bottom: 50px;">
                         <div>
                             <h5 class="Georgia" style="float: left">Introduction </h5>
-                            <button class="btn btn-primary Georgia" style="float: right">Edit</button>
+                            <button @onclick="@(() => Modal.Show<Introduction>())" class="btn btn-primary Georgia" style="float: right">Edit</button>
                         </div>
                         <p class="Georgia" style="float: left">
                             Tekst bliver i daglig tale tit identificeret med det medie, de fremstår i, og som sådan
@@ -78,6 +80,6 @@
 </div>
 
 @code {
-
+    
 
 }
