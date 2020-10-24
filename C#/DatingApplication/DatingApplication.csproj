@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Blazored.Modal" Version="5.1.0" />
+      <PackageReference Include="Blazored.Modal" Version="4.1.0" />
       <PackageReference Include="Radzen.Blazor" Version="2.15.17" />
     </ItemGroup>
 
