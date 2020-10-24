@@ -34,7 +34,7 @@
           <e p="Profile.razor" t="Include" />
           <e p="RegisterForSemesterProject.razor" t="Include" />
           <e p="Temp.razor" t="Include" />
-          <e p="temp2.razor" t="Include" />
+          <e p="Temp2.razor" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
