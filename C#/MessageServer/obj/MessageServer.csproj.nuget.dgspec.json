@@ -1,30 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj": {}
+<<<<<<< HEAD
+    "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj": {}
   },
   "projects": {
-    "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj": {
+    "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+        "projectUniqueName": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
         "projectName": "MessageServer",
-        "projectPath": "D:\\Git mapper\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+        "projectPath": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
         "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-        "outputPath": "D:\\Git mapper\\Dating2\\C#\\MessageServer\\obj\\",
+        "outputPath": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
+        "projectName": "MessageServer",
+        "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +67,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
         }
       }
     }
