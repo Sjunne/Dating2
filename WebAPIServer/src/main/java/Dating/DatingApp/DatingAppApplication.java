@@ -18,4 +18,10 @@ public class DatingAppApplication {
 	{
 		return "Hello from Maria";
 	}
+
+	@GetMapping("/Mattias")
+			public String getHelloMattias()
+	{
+		return "Hello from Mattias";
+	}
 }
