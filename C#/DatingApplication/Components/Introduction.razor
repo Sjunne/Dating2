@@ -21,12 +21,11 @@
         _Profile.intro = profileText;
         
         //Ned i tier2 -- TODO: SKAL ÆNDRE USERNAME
-        _NetworkComp.EditIntroduction(new Request
+        _NetworkComp.EditIntroduction(new ProfileData()
         {
-            Username = "Maria",
-            o = profileText,
-            requestOperation = RequestOperationEnum.EDITINTRODUCTION
+           intro = profileText
         });
+        StateHasChanged();
     }
 
 }

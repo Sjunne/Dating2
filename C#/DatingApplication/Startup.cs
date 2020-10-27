@@ -36,10 +36,10 @@ namespace WebApplication
             services.AddBlazoredModal();
 
             // Singleton
-            services.AddSingleton<ProfileData>();
+            services.AddScoped<ProfileData>();
             
             //Network
-            services.AddSingleton<INetworkComp, SocketServer>();
+            services.AddSingleton<INetworkComp, NetworkRestImpl>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
