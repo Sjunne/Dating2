@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tier2", "Tier2", "{D625B150
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageServer", "MessageServer\MessageServer.csproj", "{3C192B32-F064-4390-A29A-1440D4DD21FC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tier1", "Tier1", "{94B19BC4-6F48-43E6-9C0F-486CF3554648}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tier3", "Tier3", "{94B19BC4-6F48-43E6-9C0F-486CF3554648}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApplication", "DatingApplication\DatingApplication.csproj", "{9B45F2F3-4C0F-4E5B-BF10-FABC75968A34}"
 EndProject
