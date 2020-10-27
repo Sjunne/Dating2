@@ -2,7 +2,7 @@ package Tier3.Data;
 
 public class Request {
     private Object o;
-    private RequestOperationEnum requestOperation;
+    private requestOperationEnum requestOperation;
     private String Username;
 
     public Object getO() {
@@ -13,11 +13,11 @@ public class Request {
         this.o = o;
     }
 
-    public RequestOperationEnum getRequestOperation() {
+    public requestOperationEnum getRequestOperation() {
         return requestOperation;
     }
 
-    public void setRequestOperation(RequestOperationEnum requestOperation) {
+    public void setRequestOperation(requestOperationEnum requestOperation) {
         this.requestOperation = requestOperation;
     }
 

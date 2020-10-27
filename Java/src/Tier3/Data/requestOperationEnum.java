@@ -1,5 +1,5 @@
 package Tier3.Data;
 
-public enum RequestOperationEnum {
+public enum requestOperationEnum {
     EDITINTRODUCTION
 }
