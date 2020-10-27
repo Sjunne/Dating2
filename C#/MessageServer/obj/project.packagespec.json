@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+    "projectUniqueName": "C:\\Users\\marti\\RiderProjects\\Dating2Final\\C#\\MessageServer\\MessageServer.csproj",
     "projectName": "MessageServer",
-    "projectPath": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
-    "outputPath": "C:\\Users\\sjunn\\RiderProjects\\Dating2\\C#\\MessageServer\\obj\\",
+    "projectPath": "C:\\Users\\marti\\RiderProjects\\Dating2Final\\C#\\MessageServer\\MessageServer.csproj",
+    "outputPath": "C:\\Users\\marti\\RiderProjects\\Dating2Final\\C#\\MessageServer\\obj\\",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
@@ -43,7 +40,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Users\\marti\\.dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
     }
   }
 }

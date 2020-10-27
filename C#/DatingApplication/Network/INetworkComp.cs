@@ -1,9 +1,10 @@
-﻿using WebApplication.Data;
+﻿using System.Threading.Tasks;
+using WebApplication.Data;
 
 namespace WebApplication.Network
 {
     public interface INetworkComp
     {
-        public void EditIntroduction(Request text);
+        public Task EditIntroduction(ProfileData profileData);
     }
 }
