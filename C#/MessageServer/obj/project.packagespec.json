@@ -1,17 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-<<<<<<< HEAD
-    "projectUniqueName": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
+    "projectUniqueName": "C:\\Users\\marti\\RiderProjects\\Dating2Final\\C#\\MessageServer\\MessageServer.csproj",
     "projectName": "MessageServer",
-    "projectPath": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\MessageServer.csproj",
-    "outputPath": "D:\\misc\\gitmap\\Dating2\\C#\\MessageServer\\obj\\",
-=======
-    "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
-    "projectName": "MessageServer",
-    "projectPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\MessageServer.csproj",
-    "outputPath": "C:\\Users\\Bruger\\RiderProjects\\DatingSys\\C#\\MessageServer\\obj\\",
->>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
+    "projectPath": "C:\\Users\\marti\\RiderProjects\\Dating2Final\\C#\\MessageServer\\MessageServer.csproj",
+    "outputPath": "C:\\Users\\marti\\RiderProjects\\Dating2Final\\C#\\MessageServer\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -47,11 +40,7 @@
           "privateAssets": "all"
         }
       },
-<<<<<<< HEAD
-      "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
-=======
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
->>>>>>> 892d9afea9638bfaf67a1aa1355e6d374e2ef55e
+      "runtimeIdentifierGraphPath": "C:\\Users\\marti\\.dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
     }
   }
 }

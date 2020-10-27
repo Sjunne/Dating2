@@ -20,8 +20,12 @@
     {
         _Profile.intro = profileText;
         
-        //Ned i tier2
-        _NetworkComp.EditIntroduction(profileText);
+        //Ned i tier2 -- TODO: SKAL ÆNDRE USERNAME
+        _NetworkComp.EditIntroduction(new ProfileData()
+        {
+           intro = profileText
+        });
+        StateHasChanged();
     }
 
 }
