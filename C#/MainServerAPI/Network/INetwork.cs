@@ -1,7 +1,9 @@
-﻿namespace MainServerAPI.Network
+﻿using MainServerAPI.Data;
+
+namespace MainServerAPI.Network
 {
     public interface INetwork
     {
-        void updateProfile(string profile);
+        void updateProfile(ProfileData profile);
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System.Net.Sockets;
 using System.Text;
 using System.Text.Json;
+using MainServerAPI.Data;
 
 namespace MainServerAPI.Network
 {
@@ -16,7 +17,7 @@ namespace MainServerAPI.Network
             stream = tcpClient.GetStream();
         }
         
-        public void updateProfile(string profile)
+        public void updateProfile(ProfileData profile)
         {
             string s = JsonSerializer.Serialize(new Request
             {

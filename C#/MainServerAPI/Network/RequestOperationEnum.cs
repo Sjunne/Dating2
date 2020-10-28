@@ -1,5 +1,9 @@
-﻿namespace MainServerAPI.Network
+﻿using System.Text.Json.Serialization;
+
+namespace MainServerAPI.Network
 {
+    [JsonConverter(typeof(JsonStringEnumConverter))]
+
     public enum RequestOperationEnum
     {
         EDITINTRODUCTION
