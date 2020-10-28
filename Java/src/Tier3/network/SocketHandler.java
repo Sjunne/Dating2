@@ -30,43 +30,40 @@ public class SocketHandler implements Network, Runnable
             try {
                 int read = inputStream.read(lenbytes,0,lenbytes.length);
                 String message = new String(lenbytes,0,read);
-                System.out.println(message);
+
                 Request request = gson.fromJson(message, Request.class);
-                System.out.println(request.getO());
 
 
                 switch (request.getRequestOperation())
                 {
                     case EDITINTRODUCTION:
                     {
-                        ProfileData profileData = CreateProfileData(request.getO().toString());
+                        ProfileData profileData = gson.fromJson(request.getO().toString(), ProfileData.class);
                         daoProfile.editProfile(profileData);
                     }
                 }
-
-
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
-
     }
 
     public ProfileData CreateProfileData(String test)
     {
-        String[] test1 = test.split(",");
+        String[] test1 = test.split("[{]");
+        String[] test2 = test1[1].split("}");
+        String[] fieldvariables = test2[0].split(",");
 
-        String[] test2 = test1[0].split("=");
+        String[] fieldvariablesValue = fieldvariables[0]. split("=");
+        String[] fieldvariablesValue2 = fieldvariables[1].split("=");
 
         ProfileData profileData = new ProfileData();
-        profileData.setIntro(test2[1]);
+        profileData.setIntro(fieldvariablesValue[1]);
+        profileData.setUsername(fieldvariablesValue2[1]);
 
-        String [] test3 = test1[1].split("=");
-
-        String[] test4 = test3[1].split("}");
-
-        profileData.setUsername(test4[0]);
-
-       return profileData;
+        return profileData;
     }
+
+
+
 }

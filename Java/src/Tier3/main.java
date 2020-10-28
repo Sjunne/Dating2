@@ -14,6 +14,14 @@ public class main
 
     while(true)
     {
+      String test = "{intro=asd, username=maria, password=tissemand}";
+
+
+
+
+
+
+
       Socket accept = welcomeSocket.accept();
       System.out.println("New Client Accepted");
 

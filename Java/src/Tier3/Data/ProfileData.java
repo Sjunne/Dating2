@@ -1,6 +1,8 @@
 package Tier3.Data;
 
-public class ProfileData {
+import java.io.Serializable;
+
+public class ProfileData implements Serializable {
     private String intro;
     private String username;
 
